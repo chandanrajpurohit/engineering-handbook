@@ -32,4 +32,4 @@
 - [Interview Questions](../../../resources/interview-questions/README.md)
 
 ---
-*Part of [technology-docs](../../../README.md)*
+*Part of [engineering-handbook](../../../README.md)*

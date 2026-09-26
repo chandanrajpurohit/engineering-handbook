@@ -8,4 +8,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[RabbitMQ](./rabbitmq/README.md)** - Widely deployed open source message broker implementing AMQP and supporting multiple messaging protocols.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

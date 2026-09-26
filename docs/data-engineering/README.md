@@ -9,4 +9,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[Apache Flink](./flink/README.md)** - Framework and distributed processing engine for stateful computations over unbounded and bounded data streams.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

@@ -8,4 +8,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[Angular](./angular/README.md)** - Component-based framework for building scalable web applications.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

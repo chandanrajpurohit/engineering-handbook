@@ -1,6 +1,6 @@
-# Contributing to Technology Documentation
+# Contributing to the Engineering Handbook
 
-Thank you for your interest in contributing to **technology-docs**! This project aims to be a reliable, structured, and comprehensive reference for developers, engineers, and architects.
+Thank you for your interest in contributing to **engineering-handbook**! This project aims to be a reliable, structured, and comprehensive reference for developers, engineers, and architects.
 
 ---
 

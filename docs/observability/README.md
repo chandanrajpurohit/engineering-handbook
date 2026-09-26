@@ -10,4 +10,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[AppDynamics (Cisco / Splunk)](./appdynamics/README.md)** - Enterprise application performance monitoring (APM) and full-stack observability platform.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

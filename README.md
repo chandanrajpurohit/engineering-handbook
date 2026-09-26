@@ -1,4 +1,4 @@
-# Technology Documentation 📚
+# Engineering Handbook 📚
 
 A comprehensive, curated, and modular engineering documentation repository covering core technologies across distributed systems, cloud computing, data engineering, backend, frontend, mobile, security, observability, AI, and developer tools.
 
@@ -7,7 +7,7 @@ A comprehensive, curated, and modular engineering documentation repository cover
 ## 🗂️ Repository Structure
 
 ```text
-technology-docs/
+engineering-handbook/
 │
 ├── README.md
 ├── CONTRIBUTING.md

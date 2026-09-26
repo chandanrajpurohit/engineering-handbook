@@ -8,4 +8,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[Native Android](./android/README.md)** - Modern native Android development using Kotlin, Java, and Jetpack Compose.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

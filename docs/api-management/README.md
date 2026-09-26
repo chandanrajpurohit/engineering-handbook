@@ -9,4 +9,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[SOAP (Simple Object Access Protocol)](./soap/README.md)** - XML-based messaging protocol specification for exchanging structured information in web services.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

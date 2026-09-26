@@ -23,4 +23,4 @@
 *Detailed notes, diagrams, and reference checklists for database indexing & query optimization challenges.*
 
 ---
-*Part of [technology-docs](../../README.md)*
+*Part of [engineering-handbook](../../README.md)*

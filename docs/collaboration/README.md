@@ -8,4 +8,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[Confluence](./confluence/README.md)** - Team workspace, technical documentation, and knowledge base by Atlassian.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

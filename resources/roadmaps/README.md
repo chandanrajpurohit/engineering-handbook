@@ -20,4 +20,4 @@
 *Detailed notes, diagrams, and reference checklists for cybersecurity & application security roadmap.*
 
 ---
-*Part of [technology-docs](../../README.md)*
+*Part of [engineering-handbook](../../README.md)*

@@ -9,4 +9,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[Google Cloud Platform (GCP)](./gcp/README.md)** - Suite of cloud computing services that runs on the same infrastructure that Google uses internally.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

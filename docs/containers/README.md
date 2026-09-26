@@ -8,4 +8,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[Kubernetes (K8s)](./kubernetes/README.md)** - Open-source system for automating deployment, scaling, and management of containerized applications.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

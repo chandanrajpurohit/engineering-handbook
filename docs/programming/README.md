@@ -9,4 +9,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[JavaScript / TypeScript](./javascript/README.md)** - Lightweight, interpreted, or just-in-time compiled programming language with first-class functions for the web and servers.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

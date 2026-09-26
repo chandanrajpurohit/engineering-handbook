@@ -8,4 +8,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[LangGraph](./langgraph/README.md)** - Library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

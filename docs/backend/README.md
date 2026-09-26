@@ -9,4 +9,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[Spring Boot](./spring-boot/README.md)** - Enterprise Java framework designed to simplify the bootstrapping and development of Spring applications.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*

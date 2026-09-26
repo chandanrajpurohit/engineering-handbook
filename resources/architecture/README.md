@@ -23,4 +23,4 @@
 *Detailed notes, diagrams, and reference checklists for disaster recovery & high availability patterns.*
 
 ---
-*Part of [technology-docs](../../README.md)*
+*Part of [engineering-handbook](../../README.md)*

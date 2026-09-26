@@ -9,4 +9,4 @@ This section contains documentation, architectural guides, and best practices fo
 - **[JSON Web Tokens (JWT)](./jwt/README.md)** - Proposed Internet standard for creating data with optional signature and/or encryption whose payload holds JSON.
 
 ---
-*Maintained as part of the [technology-docs](../../README.md) knowledge base.*
+*Maintained as part of the [engineering-handbook](../../README.md) knowledge base.*
